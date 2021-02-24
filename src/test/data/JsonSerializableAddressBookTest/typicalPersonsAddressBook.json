@@ -33,6 +33,7 @@
     "phone" : "9482224",
     "email" : "werner@example.com",
     "address" : "michegan ave",
+    "remark" : "",
     "tagged" : [ ]
   }, {
     "name" : "Fiona Kunz",
